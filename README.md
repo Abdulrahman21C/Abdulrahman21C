@@ -14,7 +14,7 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start with a cup of tea.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
+<!-- - 👨‍💻 Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
 ### Connect with Me :
