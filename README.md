@@ -1,9 +1,9 @@
 
-<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Abdul Rahman Al Hussein's profile!
-  <h3>
+  <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9912E6CA&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
   </h3>
 </h3>
